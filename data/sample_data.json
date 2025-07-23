@@ -1,0 +1,535 @@
+[
+    {
+        "paragraph_id": "chunk_1",
+        "text": "Globální drogová situace z  pohledu Policie ČR Situace v  České republice v  oblasti nezákonných drog  v   současné době je až na několik výjimek plně srovnatelná se situací se zeměmi, ve kterých měla drogová scéna před několika málo lety náskok několika deset iletí. Kompetentní orgány České republiky přistupují k  řešení tohoto problému s  plnou vážností. Podnikají kroky v legislativní, organizační a institucionální oblasti, kdy se klade důraz na vyváženost prevence a represe v boji s  drogovým fenoménem. Represivní složky státního aparátu jsou, po přijetí řady nových zákonů a dalších legislativních úprav vybaveny dostatečnými pravomocemi nejen k  boji proti výrobě a distribuci OPL na domácí scéně, ale jsou připraveny plnit úkoly i v  rámci mezinárod ní spolupráce při snižování mezinárodního obchodu OPL. Drogová scéna v české republice v  roce 1999 byla poměrně význačně ovlivněna změnou postoje společnosti k  postihu prosté držby omamných a psychotropních látek.",
+        "sentences": [
+            {
+                "id": "sent_1",
+                "text": "Globální drogová situace z  pohledu Policie ČR Situace v  České republice v  oblasti nezákonných drog  v   současné době je až na několik výjimek plně srovnatelná se situací se zeměmi, ve kterých měla drogová scéna před několika málo lety náskok několika deset iletí.",
+                "annotation": {
+                    "categories": [
+                        "drogová situace",
+                        "bezpečnost"
+                    ],
+                    "keywords": [
+                        "Policie ČR",
+                        "nezákonné drogy",
+                        "Česká republika",
+                        "globální situace"
+                    ],
+                    "type_of_statement": [
+                        "analýza"
+                    ],
+                    "entities": {
+                        "institutions": [
+                            "Policie ČR"
+                        ],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "současná doba",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.9,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_1",
+                    "text": "Globální drogová situace z  pohledu Policie ČR Situace v  České republice v  oblasti nezákonných drog  v   současné době je až na několik výjimek plně srovnatelná se situací se zeměmi, ve kterých měla drogová scéna před několika málo lety náskok několika deset iletí.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:38.330501Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 3212,
+                        "cached_result": false,
+                        "api_response_id": "10f45d40-1c86-4fa0-9071-0532c0da6c66"
+                    }
+                }
+            },
+            {
+                "id": "sent_2",
+                "text": "Kompetentní orgány České republiky přistupují k  řešení tohoto problému s  plnou vážností.",
+                "annotation": {
+                    "categories": [],
+                    "keywords": [
+                        "kompetentní orgány",
+                        "řešení",
+                        "problém",
+                        "vážnost"
+                    ],
+                    "type_of_statement": [],
+                    "entities": {
+                        "institutions": [
+                            "Česká republika"
+                        ],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "",
+                    "tone": "neutral",
+                    "confidence": {
+                        "overall": 0.6,
+                        "categories": 0.0,
+                        "keywords": 0.8,
+                        "type_of_statement": 0.0,
+                        "entities": {
+                            "institutions": 0.9,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_2",
+                    "text": "Kompetentní orgány České republiky přistupují k  řešení tohoto problému s  plnou vážností.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:40.389613Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 2058,
+                        "cached_result": false,
+                        "api_response_id": "ef5063a8-da5d-4fa7-b1d5-cc8747f6630d"
+                    }
+                }
+            },
+            {
+                "id": "sent_3",
+                "text": "Podnikají kroky v legislativní, organizační a institucionální oblasti, kdy se klade důraz na vyváženost prevence a represe v boji s  drogovým fenoménem.",
+                "annotation": {
+                    "categories": [
+                        "legislativa",
+                        "organizace",
+                        "instituce"
+                    ],
+                    "keywords": [
+                        "prevence",
+                        "represe",
+                        "drogový fenomén"
+                    ],
+                    "type_of_statement": [
+                        "opatření"
+                    ],
+                    "entities": {
+                        "institutions": [],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.9,
+                        "keywords": 0.8,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.0,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_3",
+                    "text": "Podnikají kroky v legislativní, organizační a institucionální oblasti, kdy se klade důraz na vyváženost prevence a represe v boji s  drogovým fenoménem.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:42.417943Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 2028,
+                        "cached_result": false,
+                        "api_response_id": "069b2928-e280-4756-8dbd-692aee6c92d1"
+                    }
+                }
+            },
+            {
+                "id": "sent_4",
+                "text": "Represivní složky státního aparátu jsou, po přijetí řady nových zákonů a dalších legislativních úprav vybaveny dostatečnými pravomocemi nejen k  boji proti výrobě a distribuci OPL na domácí scéně, ale jsou připraveny plnit úkoly i v  rámci mezinárod ní spolupráce při snižování mezinárodního obchodu OPL.",
+                "annotation": {
+                    "categories": [
+                        "legislativa",
+                        "mezinárodní spolupráce"
+                    ],
+                    "keywords": [
+                        "represivní složky",
+                        "státní aparát",
+                        "nové zákony",
+                        "legislativní úpravy",
+                        "OPL",
+                        "mezinárodní obchod"
+                    ],
+                    "type_of_statement": [
+                        "informativní"
+                    ],
+                    "entities": {
+                        "institutions": [
+                            "státní aparát"
+                        ],
+                        "legal_sources": [
+                            "nové zákony",
+                            "legislativní úpravy"
+                        ]
+                    },
+                    "temporal_reference": "",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.7,
+                            "legal_sources": 0.8
+                        }
+                    },
+                    "paragraph_id": "sent_4",
+                    "text": "Represivní složky státního aparátu jsou, po přijetí řady nových zákonů a dalších legislativních úprav vybaveny dostatečnými pravomocemi nejen k  boji proti výrobě a distribuci OPL na domácí scéně, ale jsou připraveny plnit úkoly i v  rámci mezinárod ní spolupráce při snižování mezinárodního obchodu OPL.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:45.559068Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 3140,
+                        "cached_result": false,
+                        "api_response_id": "adfa0179-21e5-4a40-9a3e-6c08f7248a65"
+                    }
+                }
+            },
+            {
+                "id": "sent_5",
+                "text": "Drogová scéna v české republice v  roce 1999 byla poměrně význačně ovlivněna změnou postoje společnosti k  postihu prosté držby omamných a psychotropních látek.",
+                "annotation": {
+                    "categories": [
+                        "drogová politika"
+                    ],
+                    "keywords": [
+                        "drogová scéna",
+                        "postoj společnosti",
+                        "prostá držba",
+                        "omamné látky",
+                        "psychotropní látky"
+                    ],
+                    "type_of_statement": [
+                        "analýza"
+                    ],
+                    "entities": {
+                        "institutions": [],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "1999",
+                    "tone": "neutral",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.0,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_5",
+                    "text": "Drogová scéna v české republice v  roce 1999 byla poměrně význačně ovlivněna změnou postoje společnosti k  postihu prosté držby omamných a psychotropních látek.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:48.872093Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 3312,
+                        "cached_result": false,
+                        "api_response_id": "4ff4700b-1d09-44d9-ba86-37f14269c157"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "paragraph_id": "chunk_2",
+        "text": "Novelou trestního zákona a přestupkového zákona, účinného od 1.1.1999 byla a je trestně nebo správně postižitelná osoba, která i pro svoji vlastní potřebu bez povolení přechovává drogy. Kolem účinnosti zákona se vedou zejména ve sdělovacích prostředcích diskuse, zda to nebyl „krok zpět“, zda se nejedná o zneužívaný § trestního zákona využívaný policisty ke zlepšení statistik a podobně. Z  pohledu policie se jedná o vysoce užitečnou změnu přinášející pozitivní dopad na drogovou scénu. Možnost zabavení OPL jednoznačně přispívá ke snižování nabídky OPL. Změna cen při pouličním prodeji fakticky nebyla registrována, sekundárně tak nejsou drogově závislé osoby „dotlačováni“ k  páchání majetkové nebo násilné trestné činnosti v  souvislosti s novelizací.",
+        "sentences": [
+            {
+                "id": "sent_6",
+                "text": "Novelou trestního zákona a přestupkového zákona, účinného od 1.1.1999 byla a je trestně nebo správně postižitelná osoba, která i pro svoji vlastní potřebu bez povolení přechovává drogy.",
+                "annotation": {
+                    "categories": [
+                        "legislativa",
+                        "trestní právo"
+                    ],
+                    "keywords": [
+                        "novela",
+                        "trestní zákon",
+                        "přestupkový zákon",
+                        "trestně postižitelná",
+                        "správně postižitelná",
+                        "drogy"
+                    ],
+                    "type_of_statement": [
+                        "informativní"
+                    ],
+                    "entities": {
+                        "institutions": [],
+                        "legal_sources": [
+                            "trestní zákon",
+                            "přestupkový zákon"
+                        ]
+                    },
+                    "temporal_reference": "1.1.1999",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.9,
+                        "categories": 0.9,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.8,
+                        "entities": {
+                            "institutions": 0.0,
+                            "legal_sources": 0.9
+                        }
+                    },
+                    "paragraph_id": "sent_6",
+                    "text": "Novelou trestního zákona a přestupkového zákona, účinného od 1.1.1999 byla a je trestně nebo správně postižitelná osoba, která i pro svoji vlastní potřebu bez povolení přechovává drogy.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:52.107298Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 3234,
+                        "cached_result": false,
+                        "api_response_id": "b516be2a-e387-4e7a-8e08-25934e020890"
+                    }
+                }
+            },
+            {
+                "id": "sent_7",
+                "text": "Kolem účinnosti zákona se vedou zejména ve sdělovacích prostředcích diskuse, zda to nebyl „krok zpět“, zda se nejedná o zneužívaný § trestního zákona využívaný policisty ke zlepšení statistik a podobně.",
+                "annotation": {
+                    "categories": [
+                        "diskuse",
+                        "právo"
+                    ],
+                    "keywords": [
+                        "účinnost zákona",
+                        "krok zpět",
+                        "zneužívání",
+                        "trestní zákon",
+                        "policisté",
+                        "statistiky"
+                    ],
+                    "type_of_statement": [
+                        "kritika"
+                    ],
+                    "entities": {
+                        "institutions": [
+                            "sdělovací prostředky",
+                            "policie"
+                        ],
+                        "legal_sources": [
+                            "trestní zákon"
+                        ]
+                    },
+                    "temporal_reference": "",
+                    "tone": "negativní",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.9,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.8,
+                        "entities": {
+                            "institutions": 0.8,
+                            "legal_sources": 0.8
+                        }
+                    },
+                    "paragraph_id": "sent_7",
+                    "text": "Kolem účinnosti zákona se vedou zejména ve sdělovacích prostředcích diskuse, zda to nebyl „krok zpět“, zda se nejedná o zneužívaný § trestního zákona využívaný policisty ke zlepšení statistik a podobně.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:56.657154Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 4548,
+                        "cached_result": false,
+                        "api_response_id": "ad1179b2-2b06-4cce-a262-635de9b69a1b"
+                    }
+                }
+            },
+            {
+                "id": "sent_8",
+                "text": "Z  pohledu policie se jedná o vysoce užitečnou změnu přinášející pozitivní dopad na drogovou scénu.",
+                "annotation": {
+                    "categories": [
+                        "veřejná bezpečnost",
+                        "drogová politika"
+                    ],
+                    "keywords": [
+                        "policie",
+                        "užitečná změna",
+                        "pozitivní dopad",
+                        "drogová scéna"
+                    ],
+                    "type_of_statement": [
+                        "hodnocení"
+                    ],
+                    "entities": {
+                        "institutions": [
+                            "policie"
+                        ],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "",
+                    "tone": "positive",
+                    "confidence": {
+                        "overall": 0.9,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.8,
+                        "entities": {
+                            "institutions": 0.9,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_8",
+                    "text": "Z  pohledu policie se jedná o vysoce užitečnou změnu přinášející pozitivní dopad na drogovou scénu.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:53:59.262284Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 2604,
+                        "cached_result": false,
+                        "api_response_id": "02592684-a81c-4e00-829b-75099432f35f"
+                    }
+                }
+            },
+            {
+                "id": "sent_9",
+                "text": "Možnost zabavení OPL jednoznačně přispívá ke snižování nabídky OPL.",
+                "annotation": {
+                    "categories": [
+                        "právo",
+                        "bezpečnost"
+                    ],
+                    "keywords": [
+                        "zabavení",
+                        "OPL",
+                        "snižování nabídky"
+                    ],
+                    "type_of_statement": [
+                        "konstatování"
+                    ],
+                    "entities": {
+                        "institutions": [],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.0,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_9",
+                    "text": "Možnost zabavení OPL jednoznačně přispívá ke snižování nabídky OPL.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:54:01.720717Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 2457,
+                        "cached_result": false,
+                        "api_response_id": "45d78922-267d-4968-a81d-4b72996ed971"
+                    }
+                }
+            },
+            {
+                "id": "sent_10",
+                "text": "Změna cen při pouličním prodeji fakticky nebyla registrována, sekundárně tak nejsou drogově závislé osoby „dotlačováni“ k  páchání majetkové nebo násilné trestné činnosti v  souvislosti s novelizací.",
+                "annotation": {
+                    "categories": [
+                        "ekonomika",
+                        "sociální problémy"
+                    ],
+                    "keywords": [
+                        "změna cen",
+                        "pouliční prodej",
+                        "drogově závislé osoby",
+                        "majetková trestná činnost",
+                        "násilná trestná činnost",
+                        "novelizace"
+                    ],
+                    "type_of_statement": [
+                        "analýza"
+                    ],
+                    "entities": {
+                        "institutions": [],
+                        "legal_sources": []
+                    },
+                    "temporal_reference": "",
+                    "tone": "neutrální",
+                    "confidence": {
+                        "overall": 0.8,
+                        "categories": 0.8,
+                        "keywords": 0.9,
+                        "type_of_statement": 0.7,
+                        "entities": {
+                            "institutions": 0.0,
+                            "legal_sources": 0.0
+                        }
+                    },
+                    "paragraph_id": "sent_10",
+                    "text": "Změna cen při pouličním prodeji fakticky nebyla registrována, sekundárně tak nejsou drogově závislé osoby „dotlačováni“ k  páchání majetkové nebo násilné trestné činnosti v  souvislosti s novelizací.",
+                    "prompt_version": "2025_04_22_prompt_2",
+                    "runtime": {
+                        "model": "gpt-4o",
+                        "model_version": "2024-04-18",
+                        "prompt_version": "2025_04_22_prompt_2",
+                        "created_at": "2025-04-22T19:54:04.807399Z",
+                        "temperature": 0.3,
+                        "token_count_input": null,
+                        "token_count_output": null,
+                        "duration_ms": 3085,
+                        "cached_result": false,
+                        "api_response_id": "c8e97a4b-125d-4ca1-bf00-1d9c17d2f927"
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+# chunk_boundary_with_analysis_prompt.txt
+
+Tvým úkolem je identifikovat přirozené tematické celky v dokumentu na základě analýzy vět.
+Máš k dispozici anotované věty s jejich kategoriemi, klíčovými slovy a dalšími údaji.
+
+Dostáváš dávku {batch_number} z celkových {total_batches} dávek.
+Pracuješ s větami {start_index} až {start_index + len(sentences)} z celkových {total_sentences}.
+
+Seznam vět s anotacemi:
+{sentences_json}
+
+TVŮJ ÚKOL:
+1. Rozděl tyto věty do tematicky soudržných celků (chunků)
+2. Každý chunk by měl představovat jednu myšlenku nebo téma
+3. Využij anotace vět (kategorie, klíčová slova, entity) pro identifikaci tematických hranic
+4. Pokud v anotacích vidíš změnu kategorií, tématu nebo časového rámce, je to pravděpodobně místo pro nový chunk
+
+Pro každý identifikovaný tematický celek vrať JSON objekt s těmito položkami:
+- "sentence_ids": seznam ID vět, které tvoří tento celek (např. ["sent_1", "sent_2"])
+- "main_theme": hlavní téma celku (krátce)
+- "sub_themes": seznam podtémat, pokud existují
+- "is_complete": true/false - je tematický celek kompletní nebo pokračuje v další dávce?
+
+Vrať pole těchto objektů ve formátu:
+```json
+[
+  {
+    "sentence_ids": ["sent_1", "sent_2", "sent_3"],
+    "main_theme": "Drogová situace v ČR v globálním kontextu",
+    "sub_themes": ["Srovnání se zahraničím", "Přístup orgánů ČR"],
+    "is_complete": true
+  },
+  ...
+]

@@ -1,0 +1,20 @@
+Analyzuj následující odstavec výroční zprávy a vrať **výhradně validní JSON objekt**, bez komentářů a bez zpětných apostrofů.
+
+Struktura výstupu musí být přesně:
+
+{{
+  "categories": ["string", ...],
+  "keywords": ["string", ...],
+  "type_of_statement": ["string", ...],
+  "entities": {{
+    "institutions": ["string", ...],
+    "legal_sources": ["string", ...]
+  }},
+  "temporal_reference": "string",
+  "tone": "string"
+}}
+
+Nepřidávej žádné další klíče. Pokud některé hodnoty nemůžeš určit, ponech je prázdné (např. [], "", ...).
+
+Odstavec k anotaci:
+\"\"\"{paragraph_text}\"\"\"

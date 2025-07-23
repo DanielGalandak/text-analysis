@@ -1,0 +1,32 @@
+Analyzuj následující odstavec výroční zprávy napsaný v češtině. Výstup musí být výhradně **validní JSON**, bez komentářů, bez apostrofů nebo jiného doprovodného textu.
+
+JSON by měl být v angličtině (klíče i struktura), ale hodnoty, které se vztahují k obsahu textu (např. klíčová slova, instituce, typ sdělení), uváděj v češtině.
+
+Struktura výstupu:
+
+{{
+  "categories": ["string", ...],
+  "keywords": ["string", ...],
+  "type_of_statement": ["string", ...],
+  "entities": {{
+    "institutions": ["string", ...],
+    "legal_sources": ["string", ...]
+  }},
+  "temporal_reference": "string",
+  "tone": "string",
+  "confidence": {{
+    "overall": float,
+    "categories": float,
+    "keywords": float,
+    "type_of_statement": float,
+    "entities": {{
+      "institutions": float,
+      "legal_sources": float
+    }}
+  }}
+}}
+
+Nepřidávej žádné další klíče. Pokud něco nelze určit, nech prázdné pole nebo string a confidence nastav na 0.0.
+
+Analyzuj tento odstavec:
+\"\"\"{paragraph_text}\"\"\"

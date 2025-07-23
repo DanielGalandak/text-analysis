@@ -1,0 +1,32 @@
+@startuml Analýza výročních zpráv
+
+title Diagram toku aplikace pro analýzu výročních zpráv
+
+start
+:Uživatel nahraje PDF;
+if (Výběr režimu) then (chunk režim)
+  :extract_paragraphs_from_pdf;
+  :Cyklus přes odstavce;
+else (sentence režim)
+  :extract_sentences_from_pdf;
+  :Cyklus přes věty;
+  :Seskupení vět do chunků;
+endif
+
+:annotate_paragraph_with_metadata;
+
+partition "Anotační proces" {
+  :load_prompt;
+  :annotate_paragraph;
+  :GPT API Call;
+  :Kontrola JSON výstupu;
+  :Přidání runtime metadat;
+  :Volitelné uložení do DB;
+}
+
+:Uložení JSON do DATA_FOLDER;
+:Zobrazení výsledků v UI;
+
+end
+
+@enduml

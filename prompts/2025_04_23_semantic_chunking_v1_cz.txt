@@ -1,0 +1,11 @@
+Na základě níže uvedených vět vytvoř tematické bloky (chunky), které dávají smysl jako ucelené části výroční zprávy.
+
+Každý blok bude mít:
+- `paragraph_id`: např. "chunk_1", "chunk_2", ...
+- `text`: spojení všech vět dohromady
+- `sentences`: pole jednotlivých vět
+
+Vrať výsledek jako pole objektů ve formátu JSON.
+
+Vstupní věty:
+{sentences}

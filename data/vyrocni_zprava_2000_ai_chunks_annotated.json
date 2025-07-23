@@ -1,0 +1,2956 @@
+[
+  {
+    "categories": [
+      "výroční zpráva",
+      "drogy",
+      "kriminální policie"
+    ],
+    "keywords": [
+      "Policie České republiky",
+      "Národní protidrogová centrála",
+      "drogy",
+      "ČR",
+      "2000"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "Policie České republiky",
+        "Národní protidrogová centrála"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "2000",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "Policie České republiky Služba kriminální policie Národní protidrogová centrála Výroční zpráva Situace v oblasti drog v ČR v roce 2000 I.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:30.158675Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1920,
+      "cached_result": false,
+      "api_response_id": "eda1c93d-ed5b-4f1e-ba0d-decc4c6d16f8"
+    }
+  },
+  {
+    "categories": [
+      "legislativa",
+      "trestní právo"
+    ],
+    "keywords": [
+      "novela",
+      "trestní zákon",
+      "přestupkový zákon",
+      "omamné látky",
+      "psychotropní látky",
+      "prekurzory",
+      "trestnost"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "Česká republika"
+      ],
+      "legal_sources": [
+        "zákon č. 112/1998 Sb."
+      ]
+    },
+    "temporal_reference": "1.1.1999",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.9
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Dnem 1.1.1999 vstoupila v platnost novela trestního zákona a přestupkového zákona, upravená zákonem č. 112/1998 Sb., kterým se v České republice stává trestným skutek přechovávání omamných a psychotropních látek pro vlastní potřebu. Zmíněný zákon přinesl více změn, např. i trestnost neoprávněného nakládání s prekurzory, ale trestnost přechovávání OPL je největší a velice mediálně diskutovanou změnou. Diskuse kolem účinnosti a účelnosti přetrvávají.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:32.140467Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1959,
+      "cached_result": false,
+      "api_response_id": "0a3f5fba-dadb-484b-b145-1778e5bce4f5"
+    }
+  },
+  {
+    "categories": [
+      "právo",
+      "soudnictví",
+      "drogy"
+    ],
+    "keywords": [
+      "novela",
+      "státní zastupitelství",
+      "OPL",
+      "pokyn obecné povahy",
+      "kvantifikace",
+      "soudní praxe"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "nejvyšší státní zastupitelství",
+        "policie ČR",
+        "okresní soudy",
+        "krajské soudy"
+      ],
+      "legal_sources": [
+        "§ 187a",
+        "pokyn obecné povahy nejvyššího státního zastupitelství č. 6 z roku 2000"
+      ]
+    },
+    "temporal_reference": "rok 2000",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.9
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "Významnou změnou v možnostech prosazování změn daných novelou je změna postoje státního zastupitelství, kdy pokynem obecné povahy nejvyššího státního zastupitelství byly stanoveny orientační hodnoty malého množství a hodnoty množství naplňující z hlediska skutkové podstaty kategorii „ve větším rozsahu“ u nejčastěji zneužívaných druhů OPL. Na tento pokyn reagovala policie ČR změnou své původní orientační tabulky a převzala kvantifikaci nejvyššího státního zastupitelství. Byly již vyneseny pravomocné rozsudky vpřípadech nedovoleného nakládání s OPL podle § 187a, kdy se soudy okresní i krajské v odůvodněních právě opíraly o argumentace uvedené v pokynu obecné povahy nejvyššího státního zastupitelství č. 6 z roku 2000. Dochází tak k postupnému sjednocování i soudní praxe v otázce kvantifikace \"množství větší než malé\" které bylo tolik diskutované mezi odbornou i laickou veřejností.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:34.633377Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2474,
+      "cached_result": false,
+      "api_response_id": "5fbb2c02-8a1a-47f4-ad6b-3dac38fcc85b"
+    }
+  },
+  {
+    "categories": [
+      "drogová scéna",
+      "právní otázky"
+    ],
+    "keywords": [
+      "novelizace",
+      "zasílání OPL",
+      "hašiš",
+      "beztresnost",
+      "dokazování"
+    ],
+    "type_of_statement": [
+      "analýza",
+      "problém"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "rok 2000",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "Charakteristika drogové scény, její změny za hodnocené období Průběžná analýza dopadu novelizace běží stále ještě v přípravné fázi. Velice význačným fenoménem v roce 2000 se stal rostoucí podíl využívání zasilání malého množství OPL, zejména hašiše, v listovních zásilkách, kdy je vysoce pravděpodobná beztrestnost pachatelů díky potížím při dokazování trestné činnosti, zejména pak nemožnosti zadržení a následné záměny zásilky ve fázi operativního rozpracování. Teoretická možnost využití instituce záměny zásilky po sdělení obvinění je „bezzubá“ a defakto nevyužitelná.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:36.592706Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1954,
+      "cached_result": false,
+      "api_response_id": "04bf5fbe-78f7-439c-9650-36f842e263e0"
+    }
+  },
+  {
+    "categories": [
+      "drogová scéna",
+      "prodej drog"
+    ],
+    "keywords": [
+      "regiony ČR",
+      "dealer",
+      "mobilní telefony",
+      "TWIST",
+      "GO",
+      "OPL"
+    ],
+    "type_of_statement": [
+      "popis",
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "K celkové drogové scéně je nutno uvést, že se opravdu rozšířila do všech regionů ČR a droga je dnes dosažitelná prakticky bezproblémově na celém území ČR. Sočasnou drogovou scénu lze charakterizovat následovně: prodeje na notoricky známých místech pozvolna ustávají (permanentní přítomnost stálých dealerů) a přesouvají do oblasti užší klientely (dealer nezřídka prodává pouze odběratelům, které osobně zná, případně požaduje doporučení od jim známého a dlouhodobějším bezproblémovým odběrem prověřeného uživatele. Dealeři masově používají mobilní telefony - zpravidla TWIST nebo GO a po zavolání zájemcem domlouvají místo a čas předání drogy. Dochází prakticky permanentně ke změně místa i časů \"srazů\" za účelem prodeje a koupě OPL.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:38.418229Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1805,
+      "cached_result": false,
+      "api_response_id": "a4629a1a-4448-4dbc-b329-efeabaf0cbd3"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "drogy"
+    ],
+    "keywords": [
+      "dealerské byty",
+      "OPL",
+      "romský původ",
+      "novela tr. zákona",
+      "psaníčka",
+      "drogy",
+      "Arabové"
+    ],
+    "type_of_statement": [
+      "popisný"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": [
+        "novela tr. zákona"
+      ]
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.8
+      }
+    },
+    "paragraph_id": "chunk_6",
+    "text": "Dalším trendem je vznik tzv. dealerských bytů, odkud OPL prodává i více osob (zástupným systémem) - to je specifické hlavně pro dealery romského původu. Prodej probíhá dle situování bytu buď přes okno, případně ve dveřích nebo nejbližším okolí domu. Dealeři pak u sebe nosí (v souvislosti s novelou tr. zákona) minimální množství dávek - nezřídka jen jednu - přičemž využívají dalších společníků jako „přepážky“ a teprve podle zájmu od nich odebírají tzv. psaníčka s drogou. Dealeři z řad Arabů nosí dávky v ústní dutině pod jazykem v alobalové nebo igelitové kuličce, kterou mohou v případě nebezpečí zadržení policií vyplivnout případně spolknout.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:40.903646Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2478,
+      "cached_result": false,
+      "api_response_id": "82c4c1dc-f0b8-4aca-837f-79cdf7e8a717"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "drogy",
+      "organizovaný zločin"
+    ],
+    "keywords": [
+      "předání drogy",
+      "městská zástavba",
+      "ruskojazyční pachatelé",
+      "pervitin",
+      "Efedrin",
+      "věkový průměr konzumentů",
+      "majetková trestná činnost",
+      "novela tr.z.",
+      "heroin",
+      "Balkánská cesta"
+    ],
+    "type_of_statement": [
+      "analýza",
+      "pozorování"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": [
+        "novela tr.z."
+      ]
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.8
+      }
+    },
+    "paragraph_id": "chunk_7",
+    "text": "Předání drogy a peněz se děje většinou za pohybu prodávajícího a kupujícího, přičemž vzdálenost od místa prvního kontaktu k místu samotného prodeje je mnohdy i několik stovek metrů, přičemž je využíváno městské zástavby ke změnám směrů a výhledu. Při předávání drogy jsou dealery využívány různé „krycí manévry“ (podání rukou, objetí a pod.). Byl zaznamenán nástup ruskojazyčných pachatelů hlavně v oblasti pervitinu, kteří spolupracují s českými domácími výrobci, přičemž objemově (hlavně zajištěním přísunu Efedrinu) výroba pod jejich vedením strmě vzrůstá. Obecně lze konstatovat, že se snižuje věkový průměr konzumentů, kteří v důsledku potřeby drogy páchají zpravidla majetkovou tr. činnost, aby si tak zajistili potřebné finanční prostředky. (Především se jedná o prosté krádeže v obchodních domech a krádeže vloupáním do mot. vozidel.) Byl zaznamenán pozitivní dopad novely tr.z. a souvisejících norem na snížení dostupnosti OPL a zejména zkomplikování situace samotných dealerů, což se naopak projevuje větší jejich kvalifikovaností a konspirací. U heroinu původem z blízkovýchodních oblastí, dopravovaných do Evropy po Balkánské cestě, jsou stále dominantní skupiny organizátorů původem z Turecka a albánského původu.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:43.365533Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2445,
+      "cached_result": false,
+      "api_response_id": "64d47476-6f0f-4d48-adb6-5a9f681aec52"
+    }
+  },
+  {
+    "categories": [
+      "logistika",
+      "bezpečnost"
+    ],
+    "keywords": [
+      "zásilky",
+      "Ukrajina",
+      "Polsko",
+      "zlořinecké struktury",
+      "střední Evropa"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "Roste přitom podíl zásilek dopravovaných přes Ukrajinu a dále přes Polsko. S tím souvisí užší propojení zlořineckých struktur Polského a Tureckého původu, organizujících zásobování střední Evropy.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:45.024135Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1642,
+      "cached_result": false,
+      "api_response_id": "6d2e67d1-3d7d-4ed0-b733-3c77133c3ae9"
+    }
+  },
+  {
+    "categories": [
+      "doprava",
+      "zločin"
+    ],
+    "keywords": [
+      "heroin",
+      "kurýři",
+      "EU",
+      "vozidla",
+      "hranice"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "EU"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "K přepravě heroinu jsou v převážné míře najímámi kurýři Evropského původu, nejlépe z členských zemí EU, používaná vozidla jsou také registrována převážně v zemích EU. Budí tak daleko menší pozornost i v nečlenských zemích, nehledě na bezproblémový přechod vnitřních hranic EU.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:46.654723Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1626,
+      "cached_result": false,
+      "api_response_id": "6b7c71a7-f86c-4ff0-af4f-96b107825f33"
+    }
+  },
+  {
+    "categories": [
+      "drogová problematika",
+      "organizovaný zločin"
+    ],
+    "keywords": [
+      "ČR",
+      "domovská země",
+      "mezisklady heroinu",
+      "Polsko",
+      "Slovensko",
+      "konspiračnost"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "ČR se nadále využívá zejména jako \"domovská\" země organizátorů, mezisklady heroinu jsou podle dostupných informací budovány spíše v Polsku a na Slovensku. Zvyšuje se konspairativnost jednání organizátorů.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:48.561337Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1900,
+      "cached_result": false,
+      "api_response_id": "5fd348f0-28d0-4750-a71b-fa9a072a9fd6"
+    }
+  },
+  {
+    "categories": [
+      "násilí",
+      "organizace"
+    ],
+    "keywords": [
+      "brutalita",
+      "problémy",
+      "potyčky"
+    ],
+    "type_of_statement": [
+      "konstatování"
+    ],
+    "entities": {
+      "institutions": [
+        "organizace"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.8,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.7,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "Konstatuje se všeobecně vzůstající brutalita při vyřizování problémů jak uvnitř jednotlivých organizací, tak i při potyčkách mezi různými organizacemi.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:50.133274Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1567,
+      "cached_result": false,
+      "api_response_id": "50ca37a2-44ca-496a-99ac-1aedd6d33a86"
+    }
+  },
+  {
+    "categories": [
+      "drogová problematika",
+      "kriminalita"
+    ],
+    "keywords": [
+      "kokain",
+      "dovozci",
+      "zásilka"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "ČR",
+        "Belgie"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "KOKAIN Kokain zůstává i nadále na okraji zájmu konzumentů. Opětovné oživení listovních zásilek OPL u kokainu nebyl registrován. Byla zjištěna skupina dovozců kokainu do ČR, zadržena zásilka cca 1 kg v ČR a cca 10 kg v Belgii.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:51.895912Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1742,
+      "cached_result": false,
+      "api_response_id": "8275747f-5224-49cf-ba89-028427887f0f"
+    }
+  },
+  {
+    "categories": [
+      "drogová problematika",
+      "bezpečnost"
+    ],
+    "keywords": [
+      "jednorázově přepravované drogy",
+      "zásilky",
+      "odhalení",
+      "důkazy",
+      "pachatelé"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_6",
+    "text": "Podle operativních informací se trvale snižuje množství jednorázově přepravované drogy a rostě počet zásilek. To velice stěžuje možnosti odhalení jak zásilek, tak získávání důkazů proti pachatelům.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:53.826192Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1910,
+      "cached_result": false,
+      "api_response_id": "0619fb5f-dfd0-40eb-99b1-3e30c18027e9"
+    }
+  },
+  {
+    "categories": [
+      "domácí výroba",
+      "drogy"
+    ],
+    "keywords": [
+      "metamfetamin",
+      "pervitin",
+      "efedrin",
+      "Solutan"
+    ],
+    "type_of_statement": [
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "1999",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_7",
+    "text": "METAMFETAMIN V oblasti domácí výroby pervitinu ne došlo v porovnání s rokem 1999 k zásadním změnám. Výroba metamfetaminu se provádí prakticky výhradně z efedrinu a pouze ve výjimečných případech se ještě vyrábí ze Solutanu nebo jiných efedrin obsahujících léčiv.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:55.694675Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1852,
+      "cached_result": false,
+      "api_response_id": "24075157-2143-4f60-932d-f771c73bc0ca"
+    }
+  },
+  {
+    "categories": [
+      "nelegální trh",
+      "výroba drog"
+    ],
+    "keywords": [
+      "efedrin",
+      "metamfetamin",
+      "Solutan",
+      "vařiči"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "výrobce",
+        "kontrolní orgány",
+        "represivní orgány"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_8",
+    "text": "Efedrin je na nelegálním trhu k dispozici v dostatečném množství i přes důrazná opatření provedených ze strany výrobce a kontrolních i represivních orgánů. Výroba metamfetaminu ze Solutanu se provádí výjimečně, pouze v případech akutní nedostupnosti efedrinu a vyrábí takto \"vařiči\" buďto pouze pro vlastní spotřebu nebo pro nejbližší přátele.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:57.595505Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1884,
+      "cached_result": false,
+      "api_response_id": "27127ce7-38d2-44b0-8621-93c94440b306"
+    }
+  },
+  {
+    "categories": [
+      "organizovaný zločin",
+      "výroba drog"
+    ],
+    "keywords": [
+      "metamfetamin",
+      "občané ČR",
+      "ruskojazyčné skupiny",
+      "asijské skupiny",
+      "efedrin"
+    ],
+    "type_of_statement": [
+      "konstatování"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_9",
+    "text": "Z realizovaných případů lze konstatovat, že výrobci metamfetaminu jsou prakticky pouze občané ČR, do organizování výroby a distribuce metamfetaminu se zapojili ruskojazyčné a asijské skupiny. V těchto případech je zajištěn přísun efedrinu, \"vaří\" se v množstvím kolem 1 kg metamfetaminu na jeden \"var\".",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:39:59.882061Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2280,
+      "cached_result": false,
+      "api_response_id": "017ea31e-ebcd-4218-80c9-4ca643438a86"
+    }
+  },
+  {
+    "categories": [
+      "výroba drog",
+      "nelegální aktivity"
+    ],
+    "keywords": [
+      "metamfetamin",
+      "pervitin",
+      "laboratoře"
+    ],
+    "type_of_statement": [
+      "popis"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_10",
+    "text": "Metamfetamin pocházející z těchto produkčních sfér je vysoce čistý, krystalický a dobře odlišitelný od pervitinu vyráběného v malém nebo dokonce z léčiv. Vyrábí se v laboratořích dobře zařízených, situovaných mimo bydliště výrobce nebo objekty vlastněné výrobce.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:01.845724Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1947,
+      "cached_result": false,
+      "api_response_id": "b620cb8f-f364-4f5b-becd-88b6f688a0cd"
+    }
+  },
+  {
+    "categories": [
+      "výroba",
+      "chemie"
+    ],
+    "keywords": [
+      "garáže",
+      "prostory",
+      "přátelé",
+      "chemický proces",
+      "zápach",
+      "terén"
+    ],
+    "type_of_statement": [
+      "popis"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.7,
+      "categories": 0.8,
+      "keywords": 0.8,
+      "type_of_statement": 0.6,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "Často se k výrobě pronajímají garáže nebo jiné prostory nebo se půjčují od přátel. Vlastní výroba, tedy chemický proces doprovázený velice intenzivním chemickým zápachem se často provádí v terénu.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:03.683373Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1820,
+      "cached_result": false,
+      "api_response_id": "f6e3d24a-d3a8-4f80-808b-5c4fff2cddcf"
+    }
+  },
+  {
+    "categories": [
+      "výroba",
+      "prodej",
+      "trh"
+    ],
+    "keywords": [
+      "metamfetamin",
+      "krystalizace",
+      "SRN",
+      "ČR",
+      "tržní hodnota"
+    ],
+    "type_of_statement": [
+      "analýza trhu",
+      "tendence"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Jsou zaznamenávány též tendence oddělení výroby od čištění a závěrečné krystalizace Zřejmá je taky tendence prodeje metamfetaminu v SRN, kde je jeho tržní hodnota daleko vyšší, pohybuje se na úrovni 150 - 200% ceny v ČR. Zájem ze strany uživatelů a proto i dealerů v SRN je o český \"krystal\" vysoký a v pohraničních oblastech sousedících se SRN se předpokládá vysoké procento realizace prodeje vyrobeného metamfetaminu v SRN.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:05.956400Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2255,
+      "cached_result": false,
+      "api_response_id": "4219d2fe-c472-456f-b7bb-d38aa6b3dfd7"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "bezpečnost"
+    ],
+    "keywords": [
+      "konspirativnost",
+      "pachatelé",
+      "specializace",
+      "produkce",
+      "varny",
+      "sklady",
+      "mobilní telefony",
+      "Internet"
+    ],
+    "type_of_statement": [
+      "popis"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "Díky vyšší organizovanosti se také zvyšuje konsparativnost jednání pachatelů. Kromě již výše zmíněné specializace na jednotlivé fáze produkce a s tím související stížení odhalení varny nebo skladu se více konspiruje i při vzájemných kontaktech. Používají se výhradně mobilní telefony s předplacenou kartou znemožňující zjištění majitele přístroje nebo komunikace přes Internet.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:08.958634Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2980,
+      "cached_result": false,
+      "api_response_id": "541679c0-c505-494e-8743-27560d711b9a"
+    }
+  },
+  {
+    "categories": [
+      "drogová politika",
+      "výroba a distribuce drog"
+    ],
+    "keywords": [
+      "canabis",
+      "amfetaminy",
+      "NP DC",
+      "psychotropní látky"
+    ],
+    "type_of_statement": [
+      "zpráva"
+    ],
+    "entities": {
+      "institutions": [
+        "NP DC"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "2000",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "CANABIS U canabisu k žádným podstatným změnám oproti roku 1999 nedošlo. AMFETAMINY V roce 2000 nebyl pracovníky NP DC zaznamenán žádný případ ať již výroby, dovozu, nebo distribuce ani známky organizovaného obchodu s tímto druhem psychotropní látky.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:12.724173Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 3749,
+      "cached_result": false,
+      "api_response_id": "5c11578e-b69c-4793-94d7-79fb98fcb0ac"
+    }
+  },
+  {
+    "categories": [
+      "drogová problematika",
+      "trh"
+    ],
+    "keywords": [
+      "XTC",
+      "konzum",
+      "dovoz",
+      "nelegální trh",
+      "pokles ceny"
+    ],
+    "type_of_statement": [
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "uplynulé období",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "EXTÁZE V oblasti XTC došlo v uplynulém období k takřka masovému nárůstu konzumu a to i mezi příležitostnými uživateli drog. Byly zaznamenány případy dovozu větších množství tablet (řádově tisíce kusů), nelegální trh je ale ze značné míry zásobován dovozem menších množství v jednotlivé dodávce, přičemž frekvence dovozů je vyšší. V porovnáním s minulým rokem je registrován výrazný pokles ceny ať už při dovozu tak při distribuci.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:14.663167Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1920,
+      "cached_result": false,
+      "api_response_id": "b2c1f7bc-5003-4747-8e87-a49a5472680f"
+    }
+  },
+  {
+    "categories": [
+      "drogová problematika",
+      "sociální skupiny"
+    ],
+    "keywords": [
+      "XTC",
+      "konzumenti",
+      "mládež",
+      "trestnost",
+      "aplikace"
+    ],
+    "type_of_statement": [
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_6",
+    "text": "Je třeba poznamenat, že práce v této oblasti je značně ztížena několika faktory k nimž patří : a) konzumenti XTC se rekrutují z naprosto odlišných skupin obyvatelstva mež \"klasičtí\" uživatelé jiných OPL jako např. metamfetaminu. Jedná se mládež ve věku 15 - 25 let, často studující na různých typech středních či vysokých škol - struktury obchodníků, dealerů a živatelů nejsou tak známy jako jako např. struktury uživatelů výše uvedeného metamfetaminu, b) povědomí trestnosti tj. \"beru drogy - dělám něco špatného či protizákonného\" je u těchto osob minimální, c) díky snadné aplikaci (polknutí) odpadají u uživatelů zábrany způsobené aplikací (jehla, šňupání) a strach z možné nákazy např. AIDS či některou z hepatitid.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:16.489121Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1806,
+      "cached_result": false,
+      "api_response_id": "71be63f6-de55-4d4e-bc4f-2f7e18871da6"
+    }
+  },
+  {
+    "categories": [
+      "chemikálie",
+      "ilegální výroba",
+      "kontrolní opatření"
+    ],
+    "keywords": [
+      "efedrin",
+      "metafetamin",
+      "kontrola",
+      "krádež",
+      "zahraniční zdroje"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "ICN Czech republic"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "2000",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_7",
+    "text": "PREKURZORY A DALŠÍ CHEMIKÁLIE PRO VÝROBU OPL, ZNEUŽITELNÁ STROJNÍ ZAŘÍZENÍ Situace na trhu s nejvíce frekventovanou látkou efedrinem - prekurzorem pro výrobu metafetaminu - se v průběhu roku 2000 poněkud změnila. Vzhledem ke zvýšeným kontrolním opatřením v \"ICN Czech republic\" a.s. se prakticky znemožnilo zcizování efedrinu ve výrobě. Další efedrin pro ilegální výrovce je stále více získáván ze zahraničních zdrojů - např. v Polsku došlo v roce 2000 ke krádeži 1 000 kg efedrinu. Jako další možné země původu jsou označovány Ukrajina a Maďarsko.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:18.418014Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1911,
+      "cached_result": false,
+      "api_response_id": "0c5e8c8a-6b2f-4b23-b6e4-910263fa163c"
+    }
+  },
+  {
+    "categories": [
+      "zneužívání léků",
+      "regulace léčiv"
+    ],
+    "keywords": [
+      "efedrin",
+      "extrakce",
+      "volný prodej",
+      "sestupný trend"
+    ],
+    "type_of_statement": [
+      "analýza trendu"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_8",
+    "text": "I nadále jsou v menší míře zneužívány volně dostupné léky obsahující efedrin k jeho extrakci - zde je patrný sestupný trend vzhledem ke ztížení přístupu k některým z těchto léčiv díky zamezení jejich volného prodeje.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:20.301918Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1868,
+      "cached_result": false,
+      "api_response_id": "04649ea1-dcc7-4b56-9980-d50e2d7e6a7d"
+    }
+  },
+  {
+    "categories": [
+      "zneužití chemikálií",
+      "prevence",
+      "mezinárodní spolupráce"
+    ],
+    "keywords": [
+      "prekurzory",
+      "chemikálie",
+      "OPL",
+      "objednávky",
+      "ČR",
+      "zahraničí",
+      "preventivní opatření",
+      "nelegální trhy"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "ČR"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.6,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "Případy zneužitích dalších prekurzorů případně dalších chemikálií potřebných pro výrobu OPL byly o mezeny na pokusy o objednávky ať už u firem v ČR nebo v zahraničí. Účinnou spoluprácí jak na národní tak mezinárodní úrovni a rozsáhlými preventivními opatřeními se daří zamezit rozsáhlejšímu úniku těchto chemikálií na nelegální trhy případně jejich diversifikaci.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:22.842877Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2525,
+      "cached_result": false,
+      "api_response_id": "74f89f12-e179-4f5a-b35e-4a0ca40b2ab8"
+    }
+  },
+  {
+    "categories": [
+      "monitoring",
+      "industry"
+    ],
+    "keywords": [
+      "výrobci",
+      "dovozci",
+      "strojní zařízení",
+      "chemický průmysl",
+      "potravinářský průmysl",
+      "lékárenský průmysl",
+      "celní sazebník",
+      "distributoři",
+      "zneužití",
+      "OPL"
+    ],
+    "type_of_statement": [
+      "report"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": [
+        "celní sazebník"
+      ]
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.7
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Další opatření byla prováděna v oblasti monitorování výrobců a dovozců strojních zařízení pro potřeby chemického, potravinářského a lékárenského průmyslu. I přes problémy se zařazením těchto komodit do položek celního sazebníku se podařilo částečně zmapovat dovozce a distributory zmíněných zařízení. Prozatím nebyl zjištěn případ zneužití sledovaných zařízení - především lisů a tabletovacích strojů - k nelegální produkci OPL.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:25.674570Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2815,
+      "cached_result": false,
+      "api_response_id": "4e2a9ef3-bcab-4f1d-bd0a-ca974d362413"
+    }
+  },
+  {
+    "categories": [
+      "mezinárodní obchod",
+      "bezpečnost",
+      "praní špinavých peněz"
+    ],
+    "keywords": [
+      "bezpečná země",
+      "praní peněz",
+      "drogové delikty",
+      "vnější bezpečnostní rizika"
+    ],
+    "type_of_statement": [
+      "varování",
+      "analýza rizik"
+    ],
+    "entities": {
+      "institutions": [
+        "Policie ČR",
+        "organizátoři mezinárodního obchodu OPL"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "Přetrvává mínění organizátorů mezinárodního obchodu OPL o tom , že ČR je pr o ně „bezpečnou zemi“a kde je možné se usídlit, proprat nelegální výnosy z obchodu OPL. Z operativních poznatků je známo, že jsou všeobecně známy : Vnější bezpečnostní rizika 1. lehce splnitelné požadavky na uznání legálního pobytu na území ČR 2. jednoduch ost založení krycích firem a prakticky bezrizikového praní \"drogových\" peněz 3. relativně nízké náklady na provozování krycích firem, nízké životní náklady (s ohledem na jejich zisky) 4. relativně nízké tresty ukládané v ČR za drogové delikty 5. ochota občanů ČR zapojit se do obchodu OPL za nízké odměny 6. vysoká pravděpodobnost uchránění majetku získaného z drogových obchodů před propadnutím Ve světle těchto skutečností se Policie ČR musí vyrovnávat s neustále rostoucími požadavky na přímou spo lupráci se zahraničními partnery, nezbytné k ustanovení organizátorů mezinárodního obchodu OPL k prokázání jejich trestné činnosti.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:29.284870Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 3593,
+      "cached_result": false,
+      "api_response_id": "f5c340d8-7051-4db0-ae4f-f151e7d17dd6"
+    }
+  },
+  {
+    "categories": [
+      "finanční kontrola",
+      "praní špinavých peněz",
+      "korupce"
+    ],
+    "keywords": [
+      "nedostatečné kontroly",
+      "nelegální aktivity",
+      "propadnutí majetku",
+      "peněžité tresty",
+      "Policie ČR",
+      "praní špinavých peněz",
+      "korupční činnost",
+      "drogová scéna"
+    ],
+    "type_of_statement": [
+      "problém",
+      "hrozba"
+    ],
+    "entities": {
+      "institutions": [
+        "Policie ČR"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "současné době",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "V současné době se jako nejpalčivější jeví problém nedostatečné kontroly finančních toků z nelegálních aktivit a nemožnost ú činného postihu organizovaných skupin pachatelů ve formě vyslovení propadnutí majetku nebo ukládání peněžitých trestů. Nedostatečné kontrolní mechanismy financí, nedostatečné pravomoci Policie ČR v oblasti prověřování podezření na praní špinavých peněz a z toho vyplývající možnost zpětného toku \"propraných\" peněz do ekonomiky a vytváření dostatečných finančních zdrojů na korupční činnost je snad největší hrozbou související s drogovou scénou v ČR projevující se navenek.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:32.752365Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 3452,
+      "cached_result": false,
+      "api_response_id": "e5cf9d47-402e-4e47-84ac-a9b23026b264"
+    }
+  },
+  {
+    "categories": [
+      "zdraví",
+      "sociální problémy"
+    ],
+    "keywords": [
+      "drogově závislí",
+      "droga",
+      "OPL",
+      "distributoři",
+      "dealeři",
+      "obchodníci"
+    ],
+    "type_of_statement": [
+      "varování"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.85,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "Další nárůst drogově závislých osob, osob sahajících po droze jednou za čas, osob experimentujících s OPL velice nahrává samozřejmě potencionálním distributorům, dealerům i obchodníkům ve velkém.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:34.687434Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1930,
+      "cached_result": false,
+      "api_response_id": "15f224ec-812c-44c6-aa37-4fc290da9dae"
+    }
+  },
+  {
+    "categories": [
+      "bezpečnost",
+      "legislativa",
+      "trh s drogami"
+    ],
+    "keywords": [
+      "vnitřní bezpečnostní rizika",
+      "změna legislativy",
+      "distributoři OPL",
+      "konspirativnost"
+    ],
+    "type_of_statement": [
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": [
+        "změna legislativy"
+      ]
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.8
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "Vnitřní bezpečnostní rizika Se změnou legislativy, trestně postihující i přechovávání O PL pro vlastní potřebu souvisí změna chování nakupujících a tím i distributorů OPL. Nedá se říct, že by došlo k absolutnímu vymizení otevřené nabídky na ulici, ale podle našeho názoru došlo k rapidnímu poklesu. Pravdou je, že došlo již k teď doložitelné z měně chování distributorů, kdy se málokdy najde u distributora více než jedno „psaníčko“ drogy. Přitom v případě prokázání prodeje na množství v první řadě ani tak není brán zřetel. Pravdou je také, že dochází k větší konspirativnosti prodeje.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:36.936608Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2230,
+      "cached_result": false,
+      "api_response_id": "fb5eb445-f1d3-4667-8c42-dc3e1472d969"
+    }
+  },
+  {
+    "categories": [
+      "nelegální činnost",
+      "komunikace"
+    ],
+    "keywords": [
+      "dealeři",
+      "mobilní telefon",
+      "zákazníci",
+      "obchod",
+      "setkání",
+      "E-mail",
+      "Internetová síť",
+      "Internetové kavárny"
+    ],
+    "type_of_statement": [
+      "popis"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Dealeři fu ngují na čísle mobilního telefonu, známém pouze pro úzký okruh zákazníků a toto číslo je relativně často měněno. Obchod se předem dohodne po telefonu, a setkání spojené s prodejem pak proběhne na přesně domluveném místě za několik vteřin. Obdobného způsobu je využíváno i v případě domlouvání obchodu E -mailem po Internetové síti, kdy se obchody často domlouvají z Internetových kaváren.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:39.864957Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2912,
+      "cached_result": false,
+      "api_response_id": "f9deb457-9376-4a48-82d4-ccd3d325b8f7"
+    }
+  },
+  {
+    "categories": [
+      "bezpečnost",
+      "zdravotnictví"
+    ],
+    "keywords": [
+      "narkomanie",
+      "heroin",
+      "HIV",
+      "hepatitida",
+      "OPL",
+      "amfetamin"
+    ],
+    "type_of_statement": [
+      "rizika",
+      "varování"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "Jinak se bezpečnostní rizika spojená obecně s jevem narkomanie nijak nezměnila. Největší riziko plyne z masové masivní deva stace osobnosti, kterou dlouhodobé zneužívání zejména heroinu sebou přináší. Vysoce rizikový je samozřejmě nárůst osob HIV pozitivních, veliké finanční náklady si vyžaduje léčba hepatitid. Bezpečnostní rizika sebou nese největší ta skupina, které je vyslo veně závislá na OPL. Zde se jedná zejména o heroin a amfetamin.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:41.819087Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1947,
+      "cached_result": false,
+      "api_response_id": "a20fb342-a702-421f-9da7-ba245bf2682d"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "sociální problémy"
+    ],
+    "keywords": [
+      "náklady",
+      "trestná činnost",
+      "závislost",
+      "prostituce",
+      "násilí"
+    ],
+    "type_of_statement": [
+      "analýza"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "Náklady na potřebné množství jsou tak vysoké, že není možné je hradit z jiných zdrojů než pocházejících z trestné činnosti. V jednodušším případě si závislé osoby vydělávají na svou dávku pr odejem OPL, jsou placeni v „naturáliích“. Velice běžná je u narkomanů homosexuální i heterosexuální prostituce, jsou snadnou kořistí pro pasáky a případně různé sexuální devianty, zejména pro pedofily. Páchání násilné a majetkové trestné činnosti je dalš ím stupněm související trestné činnosti.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:44.065806Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2228,
+      "cached_result": false,
+      "api_response_id": "c51c4e92-020c-4d78-8eea-463acb3b9b75"
+    }
+  },
+  {
+    "categories": [
+      "korupce",
+      "násilí",
+      "trestní řízení"
+    ],
+    "keywords": [
+      "nebezpečí",
+      "korupce",
+      "policisté",
+      "vyšetřování",
+      "trest",
+      "násilí",
+      "vydírání"
+    ],
+    "type_of_statement": [
+      "varování"
+    ],
+    "entities": {
+      "institutions": [
+        "policie",
+        "orgány činné v trestním řízení"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "Od organizátorů obchodu OPL hrozí jiné druhy nebezpečí. Jejich snaha o korupci policistů, dalších orgánů činných v trestním řízení pro ovlivnění vyšetřování, uložení trestu může snadno v případě neúspěchu přerůst v násilné projevy. Jejich oběti budou v první řadě svědci, ale ani násilí nebo vydírání policistů nebo pracovníků represivního aparátu se nedá vyloučit.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:46.237707Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2150,
+      "cached_result": false,
+      "api_response_id": "4ce996d9-496b-4c8d-a763-6046230efc18"
+    }
+  },
+  {
+    "categories": [
+      "trh",
+      "konflikt"
+    ],
+    "keywords": [
+      "nasycení trhu",
+      "lokální potyčky",
+      "válka",
+      "etnika",
+      "odbytiště"
+    ],
+    "type_of_statement": [
+      "varování"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "V případě nasycení trhu hrozí ať již lokální potyčky mezi jednotlivými skupinami dealerů, v horším případě válka mezi příslušníky různých etnik o odbytiště.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:48.599090Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2358,
+      "cached_result": false,
+      "api_response_id": "9186a591-591e-4827-a003-8601935d23e0"
+    }
+  },
+  {
+    "categories": [
+      "drogová scéna",
+      "kriminalita",
+      "prognóza"
+    ],
+    "keywords": [
+      "drogově závislí",
+      "otevřené scény",
+      "konspirativnost",
+      "násilí",
+      "infiltrace",
+      "legalizace drog",
+      "syntetické drogy",
+      "metamfetamin",
+      "mezinárodní obchod"
+    ],
+    "type_of_statement": [
+      "prognóza"
+    ],
+    "entities": {
+      "institutions": [
+        "orgány státní správy"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "do konce roku 2000",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Na základě analýzy realizovaných případů, rozpracovaných věcí a získaných poznatků lze předvídat následující vývoj drogové scény do konce roku 2000 : Prognóza dalšího vývoje 1. další nárůst počtu drogově závislých osob 2. přeskupování tzv. otevřených scén 3. další zvýšení konspirativnosti prodeje OPL 5. násilné řešení sporů o teritoria a sféry vlivu 6. narůstaní snah o infiltraci do orgánů státní správy, respektive k vytvoření vlivných kontaktů a ovlivňování již tak negativní operativní situace - další tlak na legalizaci drog 7. budování a provozování velkých laboratoří na výrobu syntetických drog, zejména metamfetaminu 8. zvyšování počtu občanů ČR zapojených do mezinárodního obchodu OPL 9. nárůst úrovně zapojení občanů ČR do obchodu OPL i na mezinárodní úrovni",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:51.119432Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2498,
+      "cached_result": false,
+      "api_response_id": "6592271f-e256-4a30-abd4-96ccee775ec2"
+    }
+  },
+  {
+    "categories": [
+      "zahraniční vztahy",
+      "mezinárodní spolupráce",
+      "policejní operace"
+    ],
+    "keywords": [
+      "Interpol",
+      "konference",
+      "pracovní skupina",
+      "výměnná stáž",
+      "Phare Police Officer Exchange"
+    ],
+    "type_of_statement": [
+      "výjezdy do zahraničí",
+      "mezinárodní spolupráce"
+    ],
+    "entities": {
+      "institutions": [
+        "PČR",
+        "Interpol",
+        "CND",
+        "BKA"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "Zahraniční vztahy, styky, spolupráce VÝJEZDY DO ZAHRANIČÍ V rámci operativního rozpracování, vyšetřování jednotlivých případů, projednání širší mezinárodní spolupráce, mezinárodních konferencí, kursů a vzdělávání byly realizovány tyto výjezdy: V rámci účasti v mezinárodních pracovních skupinách a akcích Interpolu : Hrazené ze zdrojů PČR :  26. výroční zasedání vedoucích protidrogových centrál ve Varšavě  CND (Komise OSN pro narkotika) Vídeň  Pracovní skupina severských zemí a ČR Viking - Norsko – Oslo  Konference BALKOM - trestná činnost na Balkánské cestě, Lyon, Francie,  Slovinsko, Portoroz - jednání pracovní skupiny Jihovýchod,  Rakousko, Linec - jednání pracovní skupiny STAR,  2 x SRN Munster, seznámení s prací policie SRN,  Lyon, Francie, příprava projektu k rodinám etnických albánců,  Lyon, Francie, konference k syntetickým drogám,  Francie, výměnná stáž,  Čína - 5. mezinárodní konference o heroinu,  Turecko - mezinárodní konference k acetanhydridu,  SRN - zasedání pracovní skupiny Star,  Nizozemí - zasedání pracovní skupiny Jihovýchod,  SRN - konference o prekurzorech,  SRN - konference pracovní skupiny WAND,  Francie - založení pracovní skupiny EAN 2,  Švýcarsko - zasedání pracovní skupiny EAN 2,  2. Evropská konference o drogách – Brusel, Belgie,  pracovní setkání k problematice mezinárodní spolupráce – Varšava, INFOPOL,  pracovní setkání k problematice mezinárodní spolupráce – Gdaňsk, TAIEX,  pracovní setkání pro problematiku sledovaných zásilek, Varšava, V rámci konkrétní spolupráce :  Belgie – výměna materiálů v rámci zadržení sledované zásilky a koordinace dalšího postupu,  Itálie –3 x cesta do Milána,výslech osob v rámci akce Iridium,  SRN - výslechy kurýrů metamfetaminu,  SRN - založení pracovní skupiny Krystal k problematice dovozu metamfetaminu do SRN z ČR, V rámci programu Phare Police Officer Exchange projekt vyslání a přijetí policistů : - 4 týdny v SRN u BKA 1 policista - 4 týdny ve Španělsku 1 policista - 4 týdny v Dánsku 1 policista",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:57.030413Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 5893,
+      "cached_result": false,
+      "api_response_id": "bf63cc5e-62ed-4c79-95e2-85bd84fe0e76"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "Francie",
+      "OCRTIS",
+      "projekt Falcone"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [
+        "OCRTIS"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "",
+    "confidence": {
+      "overall": 0.6,
+      "categories": 0.0,
+      "keywords": 0.8,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "- 2 týdny ve Francii u OCRTIS 1 policista - 2 týdny ve francii v rámci projektu Falcone 1 policista",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:40:59.146372Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2100,
+      "cached_result": false,
+      "api_response_id": "b6d4c0aa-5fe5-41db-af9c-2ee6708e734e"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "NPDC",
+      "policista",
+      "policistka"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [
+        "BKA SRN",
+        "NPDC"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "",
+    "confidence": {
+      "overall": 0.5,
+      "categories": 0.0,
+      "keywords": 0.8,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.7,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "- 4 týdny u NPDC policista BKA SRN - 4 týdny u NPDC policista Dánska - 2 týdny u NPDC policistka Fran cie - 4 týdny u NPDC policista Španělska",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:01.156480Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1989,
+      "cached_result": false,
+      "api_response_id": "c818436c-2b1a-4ca0-aada-d6016f10c2f8"
+    }
+  },
+  {
+    "categories": [
+      "mezinárodní spolupráce",
+      "právní pomoc"
+    ],
+    "keywords": [
+      "zahraniční partneři",
+      "delegace",
+      "právní pomoc"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "policie Holandska",
+        "policie Dánska",
+        "policie Norska",
+        "policie Švýcarska",
+        "policie SRN",
+        "policie Švédska",
+        "policie Itálie",
+        "policie Velké Británie"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "PŘIJETÍ ZAHRANIČNÍCH PARTNERŮ V rámci žádosti o právní pomoc byly přijaty delegace a poskytnuta pomoc policistům Holandska, Dánska, Norska, Švýcarska, SRN a Švédska, Itálie a Velké Británie.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:03.923368Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2748,
+      "cached_result": false,
+      "api_response_id": "107667d7-db6b-4c75-a095-c2edf8c706b4"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "jednání",
+      "styční důstojníci",
+      "spolupráce",
+      "protidrogové oddělení",
+      "boj proti podloudnictví"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [
+        "BKA SRN",
+        "NCIS Velká Británie",
+        "Severské země",
+        "Belgické království",
+        "Itálie",
+        "DEA",
+        "Francie",
+        "Kanada",
+        "Izrael",
+        "Švýcarsko",
+        "Nizozemí",
+        "GŘC"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "",
+    "confidence": {
+      "overall": 0.7,
+      "categories": 0.0,
+      "keywords": 0.8,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": " BKA SRN se sídlem v  Praze Dále proběhla řada jednán í se styčnými důstojníky :  NCIS Velká Británie se sídlem ve Vídni  Severských zemí se sídlem ve Vídni  Belgického království se sídlem ve Vídni  Itálie se sídlem ve Varšavě  DEA se sídlem v  Bonnu  Francie se sídlem v  Praze  Kanady se sí dlem ve Vídni  Izraele se sídlem v  Bonnu  Švýcarska se sídlem v  Praze  Nizozemí se sídlem ve Varšavě Již tradičně byla spolupráce nejintenzívnější s  GŘC, s  protidrogovým oddělením odboru boje proti podloudnictví.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:06.892512Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2950,
+      "cached_result": false,
+      "api_response_id": "c55cf72b-01ad-4f7c-b9a9-a6b01467d38d"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "spolupráce",
+      "pracovní skupiny",
+      "aktuální kauzy"
+    ],
+    "type_of_statement": [
+      "popis"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "současná doba",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.7,
+      "categories": 0.0,
+      "keywords": 0.8,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "Tato  spolupráce je již dlouhodobě na velmi vysoké úrovni, v současné době pracují dvě stálé společné pracovní skupiny a podle potřeby se vytváří další skupiny k řešení aktuálních kauz.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:09.180591Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2272,
+      "cached_result": false,
+      "api_response_id": "bccd9d31-c90a-43bf-a231-d8b94f9b2794"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "spolupráce",
+      "mimoresortní subjekty",
+      "Samostatný inspektorát OPL",
+      "prekurzory",
+      "Efedrin"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [
+        "Ministerstvo zdravotnictví ČR",
+        "Samostatný inspektorát OPL"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "",
+    "confidence": {
+      "overall": 0.7,
+      "categories": 0.0,
+      "keywords": 0.9,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_6",
+    "text": "Spolupráce s  mimoresortními subjekty Na dalším místě je nutné uvést Samostatný inspektorát OPL Ministerstva zdr avotnictví ČR, kde je zejména na úseku prekurzorů a Efedrinu spolupráce velmi přínosná.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:11.607157Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2410,
+      "cached_result": false,
+      "api_response_id": "7940e48e-3a2a-42b9-a01e-c7029ea79b26"
+    }
+  },
+  {
+    "categories": [
+      "mezinárodní obchod",
+      "nelegální aktivity"
+    ],
+    "keywords": [
+      "Rohypnol",
+      "spolupráce",
+      "nelegální obchod"
+    ],
+    "type_of_statement": [
+      "spolupráce",
+      "výrobce"
+    ],
+    "entities": {
+      "institutions": [
+        "Léčiva Praha"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "letošní rok",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_7",
+    "text": "V  letošním roce pokračovala velice intenzivní spolupráce na problematice mezinárodního nelegálního obchodu Rohypnolem o výrobce Léčiva Praha.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:13.567671Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1943,
+      "cached_result": false,
+      "api_response_id": "e5808b96-5889-4f6e-b333-e9dbb217e2db"
+    }
+  },
+  {
+    "categories": [
+      "kontrola",
+      "zdravotnictví"
+    ],
+    "keywords": [
+      "kontroly",
+      "lékárny",
+      "distributoři léčiv"
+    ],
+    "type_of_statement": [
+      "oznámení"
+    ],
+    "entities": {
+      "institutions": [
+        "SIOPL MZ"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_8",
+    "text": "V  této věci se společně se SIOPL MZ provedlo několik kontrol lékáren a distributorů léčiv.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:15.996702Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2422,
+      "cached_result": false,
+      "api_response_id": "7dda8f8d-db93-4afd-982f-8d6a623e9b37"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "prekurzory",
+      "syntetické drogy",
+      "programy Phare"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [
+        "PDO GŘC",
+        "SI PLO MZ"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "",
+    "confidence": {
+      "overall": 0.7,
+      "categories": 0.0,
+      "keywords": 0.9,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_9",
+    "text": "V  s o uč i nn o s t i  s  t ě m i t o  pa r t n e ry ,  t e d y  P D O  G Ř C  a  S I  P L O  M Z  pr o bí h a j í  pr o gr a m y Phare pro prekurzory a syntetické drogy.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:18.003994Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2000,
+      "cached_result": false,
+      "api_response_id": "24e9b351-9991-4d29-a239-3ac41d4b51ae"
+    }
+  },
+  {
+    "categories": [
+      "mezinárodní projekty",
+      "kontrola výroby",
+      "obchodování"
+    ],
+    "keywords": [
+      "PURPLE",
+      "manganistan draselný",
+      "acetanhydrid",
+      "kokain",
+      "heroin"
+    ],
+    "type_of_statement": [
+      "pokračování projektů"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_10",
+    "text": "Dále se pokarčuje v mezinárodních projektech PURPLE - kontrola výroby a o bchodování manganistanem draselným, klíčovou pomocnou látkou pro výrobu kokainu a obdobný projekt probíhá a na úseku kontroly acetanhydridu, nezbytné k výrobě heroinu.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:28.318622Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 10308,
+      "cached_result": false,
+      "api_response_id": "2c7f838c-9aba-4e7b-b51d-e4fcc5f1d6fb"
+    }
+  },
+  {
+    "categories": [
+      "prevence",
+      "zdravotnictví"
+    ],
+    "keywords": [
+      "preventivní činnost",
+      "Bulletin",
+      "primární protidrogová prevence"
+    ],
+    "type_of_statement": [
+      "pokračování činnosti"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "hodnocené období",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.7,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_11",
+    "text": "Preventivní činnost V hodnoceném období bylo pokračováno ve vydávání Bulletinu a v  preventivní činnosti spočívající ve spolupráci se subjekty působícími v  oblasti zejména primární protidrogové prevence.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:30.542817Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2202,
+      "cached_result": false,
+      "api_response_id": "bc45910b-7b67-45ae-9174-033ef9401fcd"
+    }
+  },
+  {
+    "categories": [
+      "vzdělávání",
+      "bezpečnost"
+    ],
+    "keywords": [
+      "přednášky",
+      "policisté",
+      "posluchači",
+      "frekventanti",
+      "policejní školy",
+      "zásahový útvar",
+      "studenti",
+      "vojáci"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "NPDC",
+        "Správa PČR hl.m. Prahy"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_12",
+    "text": "Za hodnocené období bylo policisty NPDC zrealizováno celkem 85 přednášek pro cca 3200 posluchačů a to zejména z  řad frekventantů nástu pních policejních škol,  Školní zásahový útvar Správy PČR hl.m. Prahy, studenty středních škol a vojáky.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:33.086249Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2538,
+      "cached_result": false,
+      "api_response_id": "e0fd011e-49a8-450c-bda9-9383dbd1aa10"
+    }
+  },
+  {
+    "categories": [
+      "výstava",
+      "drogová problematika"
+    ],
+    "keywords": [
+      "Muzeum Policie ČR",
+      "výstava",
+      "ISET 2000",
+      "Brno",
+      "drogová problematika"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "Muzeum Policie ČR"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "2000",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.8,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_13",
+    "text": "V součinnosti s  Muzeem Policie ČR se připravila výstava k  problematice drog na výstavě ISET 2000  v Brně.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:35.010868Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1919,
+      "cached_result": false,
+      "api_response_id": "113cfabd-30fe-4b24-8f2b-b3ac627da4da"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "organizovaný zločin"
+    ],
+    "keywords": [
+      "pervitin",
+      "heroin",
+      "organizovaná skupina",
+      "tranzit",
+      "distribuce",
+      "kurýři",
+      "vydírání",
+      "atentát"
+    ],
+    "type_of_statement": [
+      "zpráva o zadržení",
+      "obvinění"
+    ],
+    "entities": {
+      "institutions": [
+        "Praha",
+        "ČR"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "VII. BANDITA - zadržen o a obvi něno celkem 6 osob, v průběhu několika let skupina vyrobila a distrubuovala podle střízlivých odhadů cca 75 kg pervitinu v Praze a okolí, svoji činnost prováděla vysoce organizovaně a konspirativně Příklady realizací : KUZEY - zadrženo a obviněno osob, 5 Makedonců a jeden Čech, skupina organizovala tranzit heroinu přes ČR a distribuci heroinu v ČR, skupina najímala kurýry, organizovala výhružné akce a vydírala své dřívější kurýry a pomahače, jeden z členů skupiny je důvodně podezřelý z atentátu provedeného na Makedons kého prezidenta MACHAČKALA – dvojice Dagestánců obviněna z dlouhodobé distribuce heroinu a pervitinu na území hl. m.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:37.677420Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2645,
+      "cached_result": false,
+      "api_response_id": "41d6f015-20e4-4c97-977e-35d01dfe0896"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "organizovaný zločin",
+      "drogová trestná činnost"
+    ],
+    "keywords": [
+      "pervitin",
+      "hašiš",
+      "Camorra",
+      "OPL",
+      "kokain",
+      "metamfetamin"
+    ],
+    "type_of_statement": [
+      "výroční zpráva",
+      "policejní operace"
+    ],
+    "entities": {
+      "institutions": [
+        "P ČR",
+        "OŘ Mělník",
+        "NPDC",
+        "italské orgány",
+        "státní zástupce"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_2",
+    "text": "Prahy, CHMEL – v součinnosti s několika okresními ředitelstvími P ČR zrealizovaná skupina výrobců a distributorů pervitinu, celkem obvině no 10 osob, zajištěno 3 l solutanu, skupina dlouhodobě zásobovala Lounsko BUDĚJ – zrealizováno 5 osob, občanů ČR dovážejících do ČR hašiš v listovních zásilkách z Indie, skupina pracovala organizovaně a vysoce konspirativně po dobu cca 6 měsíců BĚŽEC – v součinnosti s OŘ Mělník zrealizovaná skupina 10 čechů, organizujících dovoz pervitinu z Prahy na Mělnicko a její následnou distribuci HENRY – východ – zrealizovaná skupina 17 osob zabývajících se výrobou a distribucí OPL, zejména úpervitinu, ale i XTC a m arihuany, skupina působila ve více okresech východočeského kraje IRIDIUM – dvouletá spolupráce s Itálskými orgány, v průběhu obviněno více než 50 pachatelů, z nichž nejdůležitější 2 Italové, náležejících k vyšším článkům Camorry, jeden z nic realizován na okrese OPAVA, jedna z nejvýznamnějších akcí Italských protimafiánských jednotek za poslední roky, a to vše za vysoce aktivního přispění NPDC JEZ – realizace 3 osob původem ze Západní Afriky, organizující dovoz a distribuci OPL v utečeneckých táborech v ČR MAU – v severočeském regionu ukončena činnost skupiny organizované osobami vietnamského původu, celekem obviněno 14 osob, z toho 6 vietnamců z nichž jeden je důvodně podezřelý z několika vražd na území SRN MARGOT – v průběhu operace zajištěno cca 11 kg kokainu, z toho 10 v Belgii, akce koordinovaná NPDC, došlo k nucenému zadržení sledované zásilky, podle státního zástupce důkazy nedostačující k zahájení trestního stíhání konkrétních osob OKR - v průběhu operace zajištěno celkem cca 1 kg krystalického metamf etaminu, celkem obviněny 2 osoby z toho 1 českého a 1 vietnamského původu, prokázán vývoz dalších cca 2 kg metamfetaminu do SRN.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:41.323664Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 3628,
+      "cached_result": false,
+      "api_response_id": "881741d8-cfab-4be5-a174-66e0fd948a93"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "drogová trestná činnost"
+    ],
+    "keywords": [
+      "VOSA",
+      "heroin",
+      "organizátor",
+      "Evropská úroveň",
+      "kosovoalbánský původ",
+      "drogové obchody"
+    ],
+    "type_of_statement": [
+      "informativní"
+    ],
+    "entities": {
+      "institutions": [
+        "VOSA"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "1992",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_3",
+    "text": "VOSA - dopaden organizátor obchodu heroinem na Evropské úrovni. Muž kosovoalbánského původu byl za drogovou trestnou činnost v roce 1992 odsouzen ve Švýcarsku, po necelém roce vězení uprchl a v ČR pod změněnou identitou pokračoval v drogových obchodech. Zajímavostí je, že obchod heroinem organizoval v ČR již v roce 1988.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:43.531523Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2191,
+      "cached_result": false,
+      "api_response_id": "6b9e80f6-92d3-4c1e-b3ea-a2374bbd07b2"
+    }
+  },
+  {
+    "categories": [
+      "kriminalita",
+      "mezinárodní spolupráce"
+    ],
+    "keywords": [
+      "operace",
+      "pachatelé",
+      "obvinění",
+      "heroin",
+      "Rohypnol"
+    ],
+    "type_of_statement": [
+      "zpráva"
+    ],
+    "entities": {
+      "institutions": [
+        "TREFA",
+        "ROT"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.8,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.8,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_4",
+    "text": "TREFA - po dlouhodobé operaci s realizacemi pachatelů v něko lika etapách a to jak v ČR tak v dalších Evropských zemích, zejména SRN a Švýcarsku, byla zadržena a obviněna skupina 7 osob,organizátorů obchodu heroinem působící v celoevropském měřítku. Celkem v průběhu akce bylo zajištěno a obviněno 31 osobv různých ze mích - ČR, Slovensko, Švédsko, SRN, Švýcarsko a Dánsko. Kromě obchodu heroinem bylo skupině rokázáno i obchodování Rohypnolem, kterého bylo v jedné zásilce zadrženo na hranicích ČR 10.000 tablet. ROT - pokračování akce TREFA, zajištěn a obviněn další orga nizátor obchodu heroinem Kosovoalbánského původu.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:46.060855Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2525,
+      "cached_result": false,
+      "api_response_id": "2d5c0a2c-ba60-4f80-b44a-ac334e7b243b"
+    }
+  },
+  {
+    "categories": [
+      "trestná činnost",
+      "drogové trestné činy"
+    ],
+    "keywords": [
+      "NPDC REALIZACE",
+      "realizační akce",
+      "obvinění",
+      "pachatelé",
+      "mladistvý",
+      "cizinci"
+    ],
+    "type_of_statement": [
+      "výsledky",
+      "statistika"
+    ],
+    "entities": {
+      "institutions": [
+        "NPDC"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "uvedené období",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.7,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_5",
+    "text": "VIII. Celkové výsledky NPDC REALIZACE V uvedeném období bylo uskutečněno v ČR celkem 110 realizačních akcí, při kterých bylo obviněno 200 pachatelů, kterým bylo bezprostředně při realizaci sděleno ob vinění celkem za 400 drogových trestných činů, u většiny obviněných bude počet prokázaných skutků v průběhu vyšetřování narůstat. Z uvedeného počtu pachatelů byly 4 mladistvý do 18 let. V rámci provedených akcí bylo zatčeno a obviněno 41 cizinců.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:48.479665Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2402,
+      "cached_result": false,
+      "api_response_id": "8d89b274-a490-40f2-b2f2-e9539d293431"
+    }
+  },
+  {
+    "categories": [
+      "drogová kriminalita"
+    ],
+    "keywords": [
+      "laboratoře",
+      "pervitin",
+      "Rohypnol",
+      "metamfetamin",
+      "kokain",
+      "heroin",
+      "marihuana",
+      "hašiš",
+      "efedrin",
+      "Codein",
+      "Solutan",
+      "XTC"
+    ],
+    "type_of_statement": [
+      "statistika"
+    ],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_6",
+    "text": "ZAJIŠT ĚNO DROG V realizovaných akcích bylo zajištěno celkem :  14 laboratoří na výrobu pervitinu  9360 tablet Rohypnolu  4049,9 g metamfetaminu (pervitinu)  2765g kokainu  2600 g kokainová pasta  16647,5 g heroinu  cca 200 g marihuany  551 g hašiše  3650 g efedrinu  160 g Codeinu  5 litrů roztoku Codeinu  3 litry Solutanu  1066 tablet XTC  přesně nezjištěné množství pervitinu a heroinu v dávkách u jednotlivých realizovaných dealerů IX.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:51.030238Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2542,
+      "cached_result": false,
+      "api_response_id": "a7ead02c-e8dd-4e69-9573-30e69fc868a8"
+    }
+  },
+  {
+    "categories": [
+      "drogy",
+      "kriminalita"
+    ],
+    "keywords": [
+      "statistiky",
+      "boj proti drogové kriminalitě",
+      "výsledky"
+    ],
+    "type_of_statement": [
+      "oznámení"
+    ],
+    "entities": {
+      "institutions": [
+        "Policie ČR"
+      ],
+      "legal_sources": []
+    },
+    "temporal_reference": "",
+    "tone": "neutrální",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.8,
+      "type_of_statement": 0.8,
+      "entities": {
+        "institutions": 1.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_7",
+    "text": "Celkové statistiky za Policii ČR v oblasti boje proti dro gové kriminalitě budou uveřejněny samostatně v dalším čísle Bulletinu. Celkové výsledky Policie ČR X.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:52.949608Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1902,
+      "cached_result": false,
+      "api_response_id": "1fb4e7f2-bc85-488f-98ad-4b765b8a2835"
+    }
+  },
+  {
+    "categories": [
+      "legislativa",
+      "právní úpravy"
+    ],
+    "keywords": [
+      "nefunkčnost",
+      "zákonná úprava",
+      "záměna zásilky",
+      "sledované zásilky",
+      "novela trestního řádu"
+    ],
+    "type_of_statement": [
+      "kritika"
+    ],
+    "entities": {
+      "institutions": [
+        "NPDC"
+      ],
+      "legal_sources": [
+        "právní řád ČR",
+        "trestní řád"
+      ]
+    },
+    "temporal_reference": "",
+    "tone": "negativní",
+    "confidence": {
+      "overall": 0.9,
+      "categories": 0.9,
+      "keywords": 0.9,
+      "type_of_statement": 0.9,
+      "entities": {
+        "institutions": 0.9,
+        "legal_sources": 0.9
+      }
+    },
+    "paragraph_id": "chunk_8",
+    "text": "Problémy v práci NPDC OBLAST LEGISLATIVNÍ NPDC několikrát připomínala v různých hodnoceních stavu legislativy naprostou nefunkčnost současné zákonné úpravy institutu záměny zás ilky, která je v současném znění naprosto nevyužitelná k postihu mezinárodních ale i domácích obchodníků zasílajících OPL v poštovních zásilkách. Dalším problémem je nemožnost procesního využití informací získaných v průběhu sledování osob a věcí v rámci m ezinárodně prováděných „sledovaných zásilek“ díky absenci institutu sledované zásilky v právním řádu ČR. Novela trestního řádu byla již několikrát odložena, dalším horezontem nabytí účinnosti je rok",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:55.365703Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 2397,
+      "cached_result": false,
+      "api_response_id": "f0a98c6c-030c-4dec-a84c-564adadbc679"
+    }
+  },
+  {
+    "categories": [],
+    "keywords": [
+      "2002",
+      "nezmění",
+      "lepší"
+    ],
+    "type_of_statement": [],
+    "entities": {
+      "institutions": [],
+      "legal_sources": []
+    },
+    "temporal_reference": "2002",
+    "tone": "neutral",
+    "confidence": {
+      "overall": 0.5,
+      "categories": 0.0,
+      "keywords": 0.8,
+      "type_of_statement": 0.0,
+      "entities": {
+        "institutions": 0.0,
+        "legal_sources": 0.0
+      }
+    },
+    "paragraph_id": "chunk_1",
+    "text": "2002. Minimálně do té doby se v této oblasti nic nezmění k lepšímu.",
+    "prompt_version": "2025_04_22_prompt_2",
+    "runtime": {
+      "model": "gpt-4o",
+      "model_version": "2024-04-18",
+      "prompt_version": "2025_04_22_prompt_2",
+      "created_at": "2025-04-26T19:41:56.909731Z",
+      "temperature": 0.3,
+      "token_count_input": null,
+      "token_count_output": null,
+      "duration_ms": 1526,
+      "cached_result": false,
+      "api_response_id": "893f8301-44fc-4f22-8e28-624f2c43d284"
+    }
+  }
+]

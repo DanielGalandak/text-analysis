@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Anotované výstupy</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #f4f4f4;
+            margin: 2rem;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .card h3 {
+            margin-top: 0;
+        }
+        .meta {
+            font-size: 0.9em;
+            color: #555;
+        }
+        .label {
+            display: inline-block;
+            background: #dbeafe;
+            padding: 0.2em 0.5em;
+            margin: 0.2em;
+            border-radius: 4px;
+            font-size: 0.85em;
+        }
+        .sentence-block {
+            margin-bottom: 1em;
+            padding-left: 1em;
+            border-left: 3px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Anotované výstupy výroční zprávy</h1>
+
+    <form method="get" style="margin-bottom: 2rem;">
+        <label for="file">Vyber soubor s anotacemi:</label>
+        <select name="file" id="file" onchange="this.form.submit()">
+            {% for f in files %}
+                <option value="{{ f.name }}" {% if f.name == selected_filename %}selected{% endif %}>
+                    {{ f.tag }} {{ f.name }}
+                </option>
+            {% endfor %}
+        </select>
+    </form>
+
+    {% if paragraphs %}
+        {% for paragraph in paragraphs %}
+            <div class="card">
+                <h3>ID: {{ paragraph.paragraph_id }}</h3>
+                <p>{{ paragraph.text }}</p>
+
+                {% if analysis_type == "sentence" %}
+                    {% for sent in paragraph.sentences %}
+                        <div class="sentence-block">
+                            <p><strong>Věta:</strong> {{ sent.text }}</p>
+
+                            <div class="meta">
+                                <strong>Kategorie:</strong>
+                                {% for cat in sent.annotation.categories %}
+                                    <span class="label">{{ cat }}</span>
+                                {% endfor %}
+
+                                <br><strong>Klíčová slova:</strong>
+                                {% for kw in sent.annotation.keywords %}
+                                    <span class="label">{{ kw }}</span>
+                                {% endfor %}
+
+                                <br><strong>Styl sdělení:</strong>
+                                {% for t in sent.annotation.type_of_statement %}
+                                    <span class="label">{{ t }}</span>
+                                {% endfor %}
+
+                                <br><strong>Časové určení:</strong> {{ sent.annotation.temporal_reference }}
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="meta">
+                        <strong>Kategorie:</strong>
+                        {% for cat in paragraph.categories %}
+                            <span class="label">{{ cat }}</span>
+                        {% endfor %}
+
+                        <br><strong>Klíčová slova:</strong>
+                        {% for kw in paragraph.keywords %}
+                            <span class="label">{{ kw }}</span>
+                        {% endfor %}
+
+                        <br><strong>Styl sdělení:</strong>
+                        {% for t in paragraph.type_of_statement %}
+                            <span class="label">{{ t }}</span>
+                        {% endfor %}
+
+                        <br><strong>Časové určení:</strong> {{ paragraph.temporal_reference }}
+                    </div>
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% else %}
+        <p><em>Žádné anotace zatím nejsou k dispozici. Nahraj soubor k analýze.</em></p>
+    {% endif %}
+</body>
+</html>

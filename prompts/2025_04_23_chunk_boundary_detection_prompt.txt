@@ -1,0 +1,38 @@
+# 2025_04_23_chunk_boundary_detection_prompt.txt
+
+Tvým úkolem je identifikovat přirozené logické celky v textu. 
+Tyto celky by měly být smysluplně ohraničené, ideálně tematicky uzavřené odstavce nebo sekce.
+
+Analyzuj následující text (pozice {start_position} až {end_position} ve zdrojovém dokumentu):
+
+```
+{text}
+```
+
+Pro každý nalezený logický celek vrať JSON objekt s těmito položkami:
+- "text": plný text identifikovaného logického celku
+- "relative_start": pozice začátku celku relativně k začátku analyzovaného textu
+- "relative_end": pozice konce celku relativně k začátku analyzovaného textu 
+- "chunk_type": typ logického celku (např. "paragraph", "heading", "list", "table_description", atd.)
+- "complete": true/false - je celek kompletní nebo pokračuje mimo analyzovaný úsek?
+
+Vrať pole těchto objektů ve formátu:
+```json
+[
+  {
+    "text": "...",
+    "relative_start": 42,
+    "relative_end": 567,
+    "chunk_type": "paragraph",
+    "complete": true
+  },
+  ...
+]
+```
+
+Řiď se těmito pravidly:
+1. Každý celek by měl být tematicky soudržný a logicky ohraničený
+2. Ignoruj neúplné věty na začátku a konci analyzovaného textu, pokud se jedná o pokračování z jiného úseku
+3. Zaměř se na identifikaci přirozených hranic odstavců a logických sekcí
+4. Neidentifikuj celky delší než 2000 znaků - ty rozděl na menší smysluplné části
+5. Pokud text obsahuje nadpisy nebo jiné strukturální prvky, respektuj je jako přirozené hranice celků

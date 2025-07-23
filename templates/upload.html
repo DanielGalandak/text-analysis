@@ -1,0 +1,68 @@
+<!-- templates/upload.html -->
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Nahrát výroční zprávu</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #f4f4f4;
+            margin: 2rem;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        input[type="file"] {
+            margin-bottom: 1rem;
+        }
+        .form-group {
+            margin-bottom: 1rem;
+        }
+        .note {
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nahrát výroční zprávu (PDF)</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="pdf_file">Soubor PDF:</label><br>
+                <input type="file" name="pdf_file" accept=".pdf" required>
+            </div>
+
+            <div class="form-group">
+                <label for="mode">Zvolte režim analýzy:</label><br>
+                <input type="radio" id="chunk" name="mode" value="chunk" checked>
+                <label for="chunk">Po chuncích (cca 300 slov)</label><br>
+
+                <input type="radio" id="sentence" name="mode" value="sentence">
+                <label for="sentence">Po větách (pro přesnější segmentaci)</label><br>
+
+                <input type="radio" id="ai_from_sentence" name="mode" value="ai_from_sentence">
+                <label for="ai_from_sentence">AI seskupení vět do tematických bloků</label>
+                <div class="note">
+                    (Vyžaduje předchozí větnou analýzu. Pokud existuje soubor <code>*_annotated_sentences.json</code>, použije se automaticky.)
+                </div>
+
+                <input type="radio" id="intelligent_chunk" name="mode" value="intelligent_chunk">
+                <label for="intelligent_chunk">Inteligentní chunking (GPT přímo z celého textu)</label>
+                <div class="note">
+                    (Využívá jazykový model pro rozdělení textu do smysluplných celků bez předchozí segmentace.)
+                </div>
+            </div>
+
+            <button type="submit">Analyzovat</button>
+        </form>
+    </div>
+</body>
+</html>
+    

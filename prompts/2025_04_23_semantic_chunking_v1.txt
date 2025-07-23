@@ -1,0 +1,14 @@
+Identify thematic chunks of text in the following JSON data, which contains a list of sentences.
+
+Each chunk should include sentences dealing with the same subject or theme. When creating the chunks, consider the meaning and coherence of the content.
+
+Respond with a JSON object containing the keys 'start_id', 'end_id', and 'theme' for each thematic chunk. The 'start_id' and 'end_id' should refer to the first and last sentence of the chunk, respectively. The 'theme' should be a brief description of the overarching topic of the chunk.
+
+JSON data:
+Identify thematic chunks of text in the following JSON data, which contains a list of sentences.
+
+Each chunk should include sentences dealing with the same subject or theme. When creating the chunks, consider the meaning and coherence of the content.
+
+Respond with a JSON object containing the keys 'start_id', 'end_id', and 'theme' for each thematic chunk. The 'start_id' and 'end_id' should refer to the first and last sentence of the chunk, respectively. The 'theme' should be a brief description of the overarching topic of the chunk.
+
+JSON data:

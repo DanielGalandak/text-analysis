@@ -1,0 +1,30 @@
+Dostáváš lineární seznam vět, kde každá věta je reprezentovaná svou anotací.
+
+{sentences}
+
+Každá věta má unikátní ID.
+
+**Instrukce:**
+- Rozděl seznam vět na tematické celky (chunky).
+- Zachovej pořadí vět.
+- Každý chunk obsahuje pole "sentence_ids" s ID vět.
+- **Nevytvářej pole "text" ani "sentences".**
+- **Nevytvářej jiné klíče než "chunks" na nejvyšší úrovni.**
+- Vrať pouze JSON obsahující jediný klíč "chunks", jehož hodnota je seznam chunků.
+
+**Výstup:**
+Příklad správného formátu:
+
+```json
+{{
+  "chunks": [
+    {{
+      "chunk_id": "chunk_1",
+      "sentence_ids": ["sent_1", "sent_2", "sent_3"]
+    }},
+    {{
+      "chunk_id": "chunk_2",
+      "sentence_ids": ["sent_4", "sent_5"]
+    }}
+  ]
+}}
